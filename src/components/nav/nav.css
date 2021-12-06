@@ -1,0 +1,30 @@
+.navHolder {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.navLogo {
+  color: white;
+  font-size: 25px;
+  letter-spacing: 4px;
+  font-family: "Source Sans Pro";
+}
+
+nav {
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  font-family: "Source Sans Pro";
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  font-size: 15px;
+  border-radius: 15px;
+  color: white;
+}
